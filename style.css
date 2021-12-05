@@ -9,6 +9,7 @@ header h2{
 header p{
   text-align:center;
   padding:10px;
+  font-size:20px;
 }
 nav{
   background-color:cyan;
