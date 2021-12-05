@@ -1,5 +1,8 @@
-h2{
+header h2{
   color:purple;
   background-color:orange;
+  text-align:center;
+}
+header p{
   text-align:center;
 }
