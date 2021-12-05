@@ -1,12 +1,13 @@
+header{
+  background-color:orange;
+}
 header h2{
   color:purple;
-  background-color:orange;
   text-align:center;
   text-decoration:underline;
 }
 header p{
   text-align:center;
-  background-color:orange;
   padding:10px;
 }
 nav{
