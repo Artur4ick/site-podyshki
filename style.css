@@ -7,6 +7,7 @@ header h2{
 header p{
   text-align:center;
   background-color:orange;
+  padding:10px;
 }
 nav{
   backgron-color:cyan;
